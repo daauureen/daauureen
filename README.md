@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daauureen&show_icons=true&locale=en" alt="daauureen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daauureen&" alt="daauureen" /></p>
+
+
+![Bolat Dauren CV](https://github.com/user-attachments/assets/a7ec7667-e81d-41d5-b783-d4d1675d2083)
