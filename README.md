@@ -23,3 +23,4 @@
 
 
 ![Bolat Dauren CV](https://github.com/user-attachments/assets/a7ec7667-e81d-41d5-b783-d4d1675d2083)
+[Coursera QZPHX28D859M (Dauren Bolat).pdf](https://github.com/user-attachments/files/21507632/Coursera.QZPHX28D859M.Dauren.Bolat.pdf)
