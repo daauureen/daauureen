@@ -19,8 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daauureen&show_icons=true&locale=en" alt="daauureen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daauureen&" alt="daauureen" /></p>
-
 
 ![Bolat Dauren CV](https://github.com/user-attachments/assets/a7ec7667-e81d-41d5-b783-d4d1675d2083)
 ![Coursera QZPHX28D859M (Dauren Bolat)_page-0001](https://github.com/user-attachments/assets/9744130e-e2f0-4f92-ae09-59d370e04e02)
