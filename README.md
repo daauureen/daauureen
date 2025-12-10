@@ -43,7 +43,7 @@
 <br>
 
 <p align="center">
-  <img src="[https://i.imgur.com/FWYTkTb.gif](https://media1.tenor.com/m/p3hWK5YRo6IAAAAC/this-is-fine-dog.gif)" width="600" />
+  <img src="https://media1.tenor.com/m/p3hWK5YRo6IAAAAC/this-is-fine-dog.gif"/>
 </p>
 
 ## 🌐 Connect With Me
