@@ -36,7 +36,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=daauureen&theme=tokyonight" height="170" />
-  &nbsp;&nbsp;
 </p>
 
 <br>
