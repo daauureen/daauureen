@@ -32,6 +32,20 @@
 
 <br>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=daauureen&theme=tokyonight" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daauureen&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://i.imgur.com/FWYTkTb.gif" width="600" />
+</p>
+
 ## 🌐 Connect With Me
 
 <p align="center">
