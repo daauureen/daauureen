@@ -42,10 +42,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/p3hWK5YRo6IAAAAC/this-is-fine-dog.gif"/>
-</p>
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -59,3 +55,7 @@
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/p3hWK5YRo6IAAAAC/this-is-fine-dog.gif"/>
+</p>
