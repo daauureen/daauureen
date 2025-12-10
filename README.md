@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm <strong>Dauren</strong></h1>
+<h1 align="center">Hey, I'm <strong>Dauren</strong></h1>
 <h3 align="center">🚀 Backend Developer from Kazakhstan</h3>
 
 <p align="center">
@@ -43,13 +43,15 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/daauureen">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
+
+  <a href="https://www.linkedin.com/in/dauren-bolat-74257736b">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:daurenbolatofficial@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" />
+  <a href="https://instagram.com/daauureen">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="45" />
   </a>
+
 </p>
 
 <br>
