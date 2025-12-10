@@ -1,24 +1,22 @@
-<div align="center">
+<h1 align="center">👋 Hey, I'm <strong>Dauren</strong></h1>
+<h3 align="center">🚀 Backend Developer from Kazakhstan</h3>
 
-<h1>👋 Hey, I'm <strong>Dauren</strong></h1>
-<h3>🚀 Backend Developer from Kazakhstan</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=450&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Open+to+Collaboration" />
+</p>
 
-<br>
-
-<img src="https://media.tenor.com/2roX3uxz_4IAAAAC/anime-girl.gif" width="350" />
-
-<br><br>
+---
 
 ## 🌟 About Me
-🔭 Working on: <strong>HuntMasters</strong>  
-🌱 Learning: <strong>Java, Spring, PostgreSQL</strong>  
-📫 Email: <strong>daurenbolatofficial@gmail.com</strong>  
+- 🔭 Working on: **HuntMasters**
+- 🌱 Currently learning: **Java, Spring, PostgreSQL**
+- 📫 Email: **daurenbolatofficial@gmail.com**
 
-<br>
+---
 
 ## 🧰 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
@@ -28,11 +26,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
 </p>
 
-<br>
+---
 
-## 🌐 Connect With Me
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=daauureen&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daauureen&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
   <a href="https://github.com/daauureen">
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
@@ -41,8 +47,6 @@
   </a>
 </p>
 
-<br>
+---
 
-⭐ Thanks for stopping by!
-
-</div>
+<p align="center">⭐ If you like my work, feel free to star my repositories!</p>
