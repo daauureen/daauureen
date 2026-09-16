@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Backend Developer from Kazakhstan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=450&lines=Fullstack+Developer;Developingt+Enthusiast;Open+to+Collaboration" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=450&lines=Fullstack+Developer;Developing+Enthusiast;Open+to+Collaboration" />
 </p>
 
 ## 🌟 About Me
